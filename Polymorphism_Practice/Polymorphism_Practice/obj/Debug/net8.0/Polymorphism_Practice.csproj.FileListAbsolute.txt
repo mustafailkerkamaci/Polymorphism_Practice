@@ -1,0 +1,15 @@
+C:\Users\musta\source\repos\Polymorphism_Practice\Polymorphism_Practice\bin\Debug\net8.0\Polymorphism_Practice.exe
+C:\Users\musta\source\repos\Polymorphism_Practice\Polymorphism_Practice\bin\Debug\net8.0\Polymorphism_Practice.deps.json
+C:\Users\musta\source\repos\Polymorphism_Practice\Polymorphism_Practice\bin\Debug\net8.0\Polymorphism_Practice.runtimeconfig.json
+C:\Users\musta\source\repos\Polymorphism_Practice\Polymorphism_Practice\bin\Debug\net8.0\Polymorphism_Practice.dll
+C:\Users\musta\source\repos\Polymorphism_Practice\Polymorphism_Practice\bin\Debug\net8.0\Polymorphism_Practice.pdb
+C:\Users\musta\source\repos\Polymorphism_Practice\Polymorphism_Practice\obj\Debug\net8.0\Polymorphism_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\Polymorphism_Practice\Polymorphism_Practice\obj\Debug\net8.0\Polymorphism_Practice.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\Polymorphism_Practice\Polymorphism_Practice\obj\Debug\net8.0\Polymorphism_Practice.AssemblyInfo.cs
+C:\Users\musta\source\repos\Polymorphism_Practice\Polymorphism_Practice\obj\Debug\net8.0\Polymorphism_Practice.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\Polymorphism_Practice\Polymorphism_Practice\obj\Debug\net8.0\Polymorphism_Practice.sourcelink.json
+C:\Users\musta\source\repos\Polymorphism_Practice\Polymorphism_Practice\obj\Debug\net8.0\Polymorphism_Practice.dll
+C:\Users\musta\source\repos\Polymorphism_Practice\Polymorphism_Practice\obj\Debug\net8.0\refint\Polymorphism_Practice.dll
+C:\Users\musta\source\repos\Polymorphism_Practice\Polymorphism_Practice\obj\Debug\net8.0\Polymorphism_Practice.pdb
+C:\Users\musta\source\repos\Polymorphism_Practice\Polymorphism_Practice\obj\Debug\net8.0\Polymorphism_Practice.genruntimeconfig.cache
+C:\Users\musta\source\repos\Polymorphism_Practice\Polymorphism_Practice\obj\Debug\net8.0\ref\Polymorphism_Practice.dll
